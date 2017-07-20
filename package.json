@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "google-assistant": "^0.1.8",
+    "node-record-lpcm16": "github:gillesdemey/node-record-lpcm16#v1",
+    "play-sound": "^1.1.1",
+    "snowboy": "^1.2.0",
+    "speaker": "^0.3.0"
+  }
+}

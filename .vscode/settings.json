@@ -1,0 +1,15 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+  // Format a file on save. A formatter must be available, the file must not be auto-saved, and editor must not be shutting down.
+  "editor.formatOnSave": true,
+
+  // Prettier
+  // If true, will use single instead of double quotes
+  "prettier.singleQuote": true,
+  // Controls the printing of trailing commas wherever possible
+  "prettier.trailingComma": "all",
+  // Controls the printing of spaces inside object literals
+  "prettier.bracketSpacing": false,
+  // Whether to add a semicolon at the end of every line
+  "prettier.semi": false
+}
